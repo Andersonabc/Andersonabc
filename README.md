@@ -1,6 +1,5 @@
 ### Hi 👋👋👋 I'm Anderson. 我是李承紘
 
-🌱 I’m currently working on IOS app development (swift)
 
 | Project HyperLink | Description |
 | --- | --- |
@@ -10,6 +9,8 @@
 | [BikeShop_WebDesign](https://github.com/Andersonabc/webdesign_RWD) | 網頁程式設計專題 - 設計以單車店為主題之網頁並實作RWD功能 |
 | [IOS](https://github.com/Andersonabc/IOS_practice) | IOS應用程式開發學習swift語法，練習製作簡易app功能 |
 
+
+🌱 I’m currently working on IOS app development (swift)
 
 <!--
 **Andersonabc/Andersonabc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
