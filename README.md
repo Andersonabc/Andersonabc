@@ -10,7 +10,7 @@
 | [IOS](https://github.com/Andersonabc/IOS_practice) | IOS應用程式開發學習swift語法，練習製作簡易app功能 |
 
 
-🌱 I’m currently working on IOS app development (swift)
+🌱 I’m currently learning IOS app development (swift) & Design pattern (java)
 
 <!--
 **Andersonabc/Andersonabc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
